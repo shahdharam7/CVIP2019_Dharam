@@ -13,4 +13,6 @@ Download all the above files in zip. Extract it. And run the "demo_energy.m" fil
 # Authors:
 - Dharambhai Shah, Nirma University ---> shahdharam7@gmail.com (For any clarification)
 - Tanish Zaveri, Nirma University ---> ztanish@nirmauni.ac.in
-  
+   
+# Link for related codes:
+https://sites.google.com/site/shahdharam7790/research
